@@ -1,0 +1,24 @@
+This is the proxy link for customer accounts API
+
+http://training4-accounts-proxy-fn19.us-e2.cloudhub.io/accounts
+
+http://training4-accounts-proxy-fn19.us-e2.cloudhub.io/accounts/4400
+
+
+Free Access- 
+
+client_id: 92a3688f44b04f518a9f5fd32c9c2429
+
+client_secret: 40b405e4FDb94bC6ad3569143C72588F
+
+
+Paid Access:
+
+client_id: 45a715a482dd4ae986bf8dda670968e1
+
+client_secret:  9e394Fb98b374F32aaF25f1C314bD898
+
+
+For Public Portal -
+
+https://anypoint.mulesoft.com/exchange/portals/njc-labs-236/
